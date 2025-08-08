@@ -1,3 +1,4 @@
+// THIS IS THE FINAL UPDATE FOR VERCEL DEPLOYMENT ON AUGUST 8TH
 // Final version for Vercel
 import React, { useState, useEffect, createContext, useContext, useRef, useMemo } from 'react';
 import { initializeApp } from 'firebase/app';
